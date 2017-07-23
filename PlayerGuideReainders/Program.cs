@@ -30,6 +30,7 @@ namespace PlayerGuideReainders
             Console.WriteLine("volumn is "+volumn+"cubic units");
             Console.WriteLine("surfaceArea is "+surfaceArea+"square units");
             Console.ReadKey();
+            //你是个猪吗?
         }
     }
 }
